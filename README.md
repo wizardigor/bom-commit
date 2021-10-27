@@ -57,3 +57,5 @@ Exemplo de uma boa mensagem de confirmação usada pelo aluno Udacity Guia de es
 
 Um exemplo mais prático:  
 docs: Corrigir erro de digitação no README.md
+
+# Gostou desse repositorio? Marque a estrelinha ⭐

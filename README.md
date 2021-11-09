@@ -9,7 +9,7 @@ Mesmo se você estiver trabalhando em um projeto pessoal, eu recomendo que você
 Este é o formato que eu uso na maioria das vezes (isso pode mudar dependendo da sua preferência ou organização para a qual você trabalha):
 
 
->* type: subject
+>* type: assunto
 >* body (optional)
 >* footer (optional)
 
